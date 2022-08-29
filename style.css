@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h1
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.A{
+    background: aliceblue;   
+    line-height: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+    width: 300px;
+    height: 30px;
+    border-radius: 25px;
+}
+canvas{
+    margin-top: 50px;
+}
+.back{
+    float: right;
+    border-radius: 10px;
+}
